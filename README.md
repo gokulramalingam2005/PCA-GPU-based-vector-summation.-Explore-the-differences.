@@ -188,8 +188,8 @@ int main(int argc, char **argv)
     return(0);
 }
 block.x = 1024
-Name : SAFA
-Register No : 212220230040
+Name : Gokul R
+Register No : 212222230039
 #include "../common/common.h"
 #include <cuda_runtime.h>
 #include <stdio.h>
@@ -341,8 +341,8 @@ int main(int argc, char **argv)
 }
 (ii)
 block.x = 256
-Name : SAFA
-Register No : 212220230043
+Name : Gokul R
+Register No : 212222230039
 #include "../common/common.h"
 #include <cuda_runtime.h>
 #include <stdio.h>
@@ -508,6 +508,8 @@ block.x = 1024
 Sum Arrays on Host : 0.033561 sec.
 Sum Arrays on GPU : 0.021730 sec.
 block.x = 256
+![PCA1](https://github.com/gokulramalingam2005/PCA-GPU-based-vector-summation.-Explore-the-differences./assets/119404838/08a8c78f-4ede-4a4c-b466-997c705faed3)
+
 
 
 Sum Arrays on Host : 0.033183 sec.
